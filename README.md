@@ -213,18 +213,21 @@ This project demonstrates several **advanced business intelligence techniques**:
 
 ---
 
-# 📁 Repository Structure
+## Repository Structure
 
-Hospital-Management-Analytics
+Healthcare-Management-Analytics-Dashboard
 │
 ├── Hospital Management.pbix
+├── Healthcare Dashboard.gif
 ├── README.md
-└── screenshots
-├── 01_hospital_management_overview_dashboard.png
-├── 02_hospital_performance_yearly_analysis_dashboard.png
-├── 03_service_line_performance_analysis_ambulatory.png
-├── 04_hospital_financial_performance_profitability_dashboard.png
-├── 05_hospital_operational_efficiency_patient_flow_dashboard.png
-└── 06_operational_efficiency_yearly_patient_flow_analysis.png
-└── Demo Video
-├── Hospital_Management_Analytics_Dashboard_Demo.mp4
+│
+├── Screenshots
+│   ├── 01_Healthcare_Performance_Executive_Overview.png
+│   ├── 02_Healthcare_Performance_Yearly_Analysis_Dashboard.png
+│   ├── 03_Service_Line_Performance_Analysis_Ambulatory.png
+│   ├── 04_Hospital_Financial_Performance_Profitability_Dashboard.png
+│   ├── 05_Healthcare_Operational_Efficiency_Patient_Flow_Dashboard.png
+│   └── 06_Operational_Efficiency_Yearly_Patient_Flow_Analysis.png
+│
+├── Demo Video
+│   └── Hospital_Management_Analytics_Dashboard_Demo.mp4
