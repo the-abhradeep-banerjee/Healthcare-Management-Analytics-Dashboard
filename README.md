@@ -247,5 +247,5 @@ Healthcare-Management-Analytics-Dashboard
 │   ├── 06_Operational_Efficiency_Yearly_Patient_Flow_Analysis.png
 │   └── Data_Model_Diagram.png
 │
-├── Demo Video
+├── Walkthrough Video
 │   └── Hospital_Management_Analytics_Dashboard_Walkthrough.mp4
