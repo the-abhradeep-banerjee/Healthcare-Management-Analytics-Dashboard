@@ -1,4 +1,4 @@
-## Healthare Management Analytics Dashboard
+## Healthcare Management Analytics Dashboard
 
 ![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
@@ -54,6 +54,18 @@ The goal of this project is to build a **data-driven hospital performance monito
 
 ---
 
+## Key Analytical Questions
+
+This dashboard was designed to answer the following questions:
+
+- Which service lines generate the highest revenue and margins?
+- What is the hospital's dependency on insurance vs self-pay patients?
+- Which patient demographics drive the highest healthcare demand?
+- How efficiently are hospital resources being utilized?
+- Which services contribute most to hospital profitability?
+
+---
+
 ## Data Source
 
 Dataset obtained from:
@@ -94,6 +106,17 @@ The report follows a **star schema data model** designed to efficiently analyze 
 
 ---
 
+## Project Workflow
+
+1. Data exploration and understanding of healthcare dataset
+2. Data modeling and relationship design
+3. Data transformation using Power Query
+4. KPI development using DAX
+5. Dashboard design and visualization
+6. Insight extraction and business interpretation
+
+---
+
 ## Tech Stack
 
 - **Power BI Desktop**
@@ -101,6 +124,18 @@ The report follows a **star schema data model** designed to efficiently analyze 
 - **DAX (Data Analysis Expressions)**
 - **Data Modeling**
 - **Interactive Dashboard Design**
+
+---
+
+## Key Skills Demonstrated
+
+- Business Intelligence Reporting
+- Healthcare Data Analysis
+- Data Modeling (Star Schema)
+- DAX Calculations
+- KPI Monitoring & Dashboard Design
+- Financial Performance Analysis
+- Operational Analytics
 
 ---
 
@@ -232,6 +267,7 @@ This project demonstrates several **advanced business intelligence techniques**:
 
 ## Repository Structure
 
+```
 Healthcare-Management-Analytics-Dashboard
 │
 ├── Hospital Management.pbix
@@ -249,3 +285,5 @@ Healthcare-Management-Analytics-Dashboard
 │
 ├── Walkthrough Video
 │   └── Hospital_Management_Analytics_Dashboard_Walkthrough.mp4
+```
+
